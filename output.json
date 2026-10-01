@@ -1,0 +1,18 @@
+[
+  { "start": 0.0, "end": 2.0, "text": " What is up, Koro?" },
+  {
+    "start": 2.0,
+    "end": 5.0,
+    "text": " In the previous video, I showed you the functions of Nampa's functions."
+  },
+  {
+    "start": 5.0,
+    "end": 9.0,
+    "text": " We saw the slicing and we did the same thing as we can do with Nampa."
+  },
+  {
+    "start": 9.0,
+    "end": 10.0,
+    "text": " We did the same thing as we can do with Nampa's."
+  }
+]
